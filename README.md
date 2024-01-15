@@ -10,5 +10,5 @@ Everyday I strive to become a better version of my self than yesterday.
 
 ---
 
-### 🧮 Stats
+### Stats
 ![Abe's GitHub stats](https://github-readme-stats.vercel.app/api?username=ceabe&show_icons=true&theme=dark)
