@@ -7,7 +7,7 @@ Everyday I strive to become a better version of my self than yesterday.
 ---
 
 ### What I'm Currently Working On
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ceabe&repo=social-links-profile-main)](https://github.com/anuraghazra/social-links-profile-main)
 ---
 
 ### Stats
